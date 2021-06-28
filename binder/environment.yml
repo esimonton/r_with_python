@@ -10,8 +10,8 @@ dependencies:
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
-  - plotly
-  - stringr
+  - r-plotly
+  - r-stringr
   - pip
   - pip:
     - plotly
